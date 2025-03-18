@@ -31,11 +31,11 @@ pip install psutil
 ## **Usage**
 ### **Step 2: Run the Injector**
 ```bash
-python injector.py <process_name.exe>
+python Code_Injector.py <process_name.exe>
 ```
 Example:
 ```bash
-python injector.py notepad.exe
+python Code_Injector.py notepad.exe
 ```
 This will inject the shellcode into `notepad.exe`.
 
